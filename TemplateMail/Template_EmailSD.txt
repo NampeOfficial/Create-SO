@@ -1,0 +1,99 @@
+<div style=""><div><style>/*<![CDATA[*/p {
+	font-family: arial , helvetica , sans-serif;
+	font-size: 12.0pt;
+}
+td {
+	border: 1.0px solid black;
+	text-align: center;
+}
+td#td2 {
+	width: 115.0pt;
+	border-top: none;
+	border-left: none;
+	border-bottom: 1.0pt solid;
+	border-right: 1.0pt solid;
+	background: rgb(255,242,204);
+	padding: 0.0cm 5.4pt;
+}
+td#td3 {
+	height: 0.5in;
+}
+thead#thead1 {
+	width: 117.0px;
+	border-width: 1.0pt 1.0pt 1.0pt 1.0pt;
+	border-style: solid;
+	background: rgb(197,224,179);
+	padding: 0.0in 5.4pt;
+	height: 41.75pt;
+}
+tbody#tbody1 {
+	background-color: white;
+}
+table#table1 {
+	width: 1096.0px;
+	border: 1.0px solid black;
+	border-collapse: collapse;
+	font-family: tahoma , sans-serif;
+	font-size: 10.0pt;
+	height: 41.75pt;
+}
+th#th1 {
+	min-width: 40.0pt;
+	padding: 15.0px;
+	border: 1.0px solid black;
+	font-size: 10.0pt;
+	font-family: tahoma , sans-serif;
+	height: 41.75pt;
+}
+th#th2 {
+	border-top: 1.0px solid;
+	border-left: none;
+	border-bottom: 1.0pt solid windowtext;
+	border-right: 1.0pt solid windowtext;
+	background: rgb(255,192,0);
+	padding: 0.0in 5.4pt;
+	height: 16.5pt;
+}
+th#th3 {
+	width: 30.0%;
+	padding: 7.0px;
+	background-color: rgb(255,192,0);
+	border: 1.0px solid black;
+	height: 24.75pt;
+}
+/*]]>*/</style><h3>** INTERNAL USE ONLY **</h3><p>เรียนทีม Engineer<br>รบกวนดำเนินงานตาม Job Order ด้วยค่ะ ดังรายละเอียดด้านล่าง<br>ข้อมูลทางเทคนิค (Technical) สามารถติดต่อสอบถามได้ที่ Presales ค่ะ </p>
+<table id="table1"><thead id="thead1">
+    <tr>
+        <th id="th1" colspan="2">JOB No.</th>
+        <th id="th1" style="min-width: 81pt;">Customer Name</th>
+        <th id="th1" style="min-width: 84pt;">Customer Status</th>
+        <th id="th1">Services</th>
+        <th id="th1" style="min-width: 52pt;">Start Date</th>
+        <th id="th1" style="min-width: 46pt;">End Date</th>
+        <th id="th1">Ref.Job</th></tr></thead><tbody id="tbody1"><tr>
+            <td id="td3" colspan="2">+Job_No+</td>
+            <td id="td3">+Customer_name+</td>
+            <td id="td3">+Customer_Status+</td>
+            <td id="td3">+Service+</td>
+            <td id="td3">+Startdate+</td>
+            <td id="td3">+Enddate+</td><td id="td3">+Reference_Job+</td>
+        </tr></tbody><tbody><tr>
+                <td style="border-color: rgb(255, 255, 255);">&nbsp;
+                </td>
+            </tr>
+        </tbody>
+        <thead id="thead1">
+        </thead><tfoot><tr>
+            <td colspan="3" style="border-top-color: rgb(255, 255, 255); border-left-color: rgb(255, 255, 255);">
+            </td><th id="th2" colspan="2">Name</th>
+            <th id="th2" colspan="2">TEL.</th>
+            <th id="th2" colspan="4">EMAIL</th>
+        </tr><tr><th id="th3" colspan="3">Sale</th>
+            <td id="td2" colspan="2">+Presele_name+</td>
+            <td id="td2" colspan="2">+Presele_tel+</td>
+            <td id="td2" colspan="4">+Presele_email+</td>
+        </tr><tr><th id="th3" colspan="3">Pre-Sale</th>
+            <td id="td2" colspan="2">+Tech_name+</td>
+            <td id="td2" colspan="2">+Tech_Tel+</td>
+            <td id="td2" colspan="4"><span class="Object" role="link" id="OBJ_PREFIX_DWT408_ZmEmailObjectHandler">+Tech_Email+</span></td>
+        </tr>

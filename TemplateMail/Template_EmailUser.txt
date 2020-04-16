@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>เรียน Sale & Presale, </p>
+<p> &nbsp; &nbsp;&nbsp;&nbsp;ระบบได้ทำการจัดทำ Create SO ไปแล้วจำนวน  +NumberTransaction+ รายการ และ ไม่สามารถทำรายการได้   +CountError+  รายการ</p>
+<p>โดยมีรายการที่ไม่สามารถทำได้ดังนี้</p>

@@ -1,6 +1,6 @@
 {
-  "name": "Test-GitHubEnviroment",
-  "description": "Blank Process",
+  "name": "INETMS-CostSheet",
+  "description": "Robotic Enterprise Framework",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.8.3-beta.867639]",
